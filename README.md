@@ -5,5 +5,5 @@
 + Увлекательный способ изучить историю кораблестроения и морских сражений.
 + Интерактивные модели кораблей
 + Интересные факты и многое другое!
-+ ![Getting Started](App_preview.mp4)
++ ![Скачать]((https://drive.google.com/drive/folders/1rj8yJsLR-H0rNwsxUoVI6gi1ssQx3SeI))
 
